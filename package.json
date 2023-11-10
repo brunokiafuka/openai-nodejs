@@ -1,0 +1,14 @@
+{
+  "name": "open-ai-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.17.3"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
